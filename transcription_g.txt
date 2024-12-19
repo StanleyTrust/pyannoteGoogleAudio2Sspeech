@@ -1,0 +1,404 @@
+results {
+  alternatives {
+    transcript: "кількості частина 8 Цибор відсотків Ось 100% і 100% тут екран що дякую мені давайте давайте давайте"
+    confidence: 0.830658197
+    words {
+      start_time {
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 300000000
+      }
+      word: "кількості"
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      word: "частина"
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      word: "8"
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      word: "Цибор"
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 9
+      }
+      word: "відсотків"
+    }
+    words {
+      start_time {
+        seconds: 9
+      }
+      end_time {
+        seconds: 9
+        nanos: 900000000
+      }
+      word: "Ось"
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 10
+        nanos: 900000000
+      }
+      word: "100%"
+    }
+    words {
+      start_time {
+        seconds: 11
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 12
+        nanos: 600000000
+      }
+      word: "і"
+    }
+    words {
+      start_time {
+        seconds: 12
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 300000000
+      }
+      word: "100%"
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 15
+        nanos: 100000000
+      }
+      word: "тут"
+    }
+    words {
+      start_time {
+        seconds: 15
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 100000000
+      }
+      word: "екран"
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 400000000
+      }
+      word: "що"
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 200000000
+      }
+      word: "дякую"
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 700000000
+      }
+      word: "мені"
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 400000000
+      }
+      word: "давайте"
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 700000000
+      }
+      word: "давайте"
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 24
+        nanos: 300000000
+      }
+      word: "давайте"
+    }
+  }
+  result_end_time {
+    seconds: 25
+    nanos: 240000000
+  }
+  language_code: "uk-ua"
+}
+results {
+  alternatives {
+    words {
+      start_time {
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 300000000
+      }
+      word: "кількості"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      word: "частина"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      word: "8"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      word: "Цибор"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 9
+      }
+      word: "відсотків"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 9
+      }
+      end_time {
+        seconds: 9
+        nanos: 900000000
+      }
+      word: "Ось"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 10
+        nanos: 900000000
+      }
+      word: "100%"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 11
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 12
+        nanos: 600000000
+      }
+      word: "і"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 12
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 300000000
+      }
+      word: "100%"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 15
+        nanos: 100000000
+      }
+      word: "тут"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 15
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 100000000
+      }
+      word: "екран"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 400000000
+      }
+      word: "що"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 200000000
+      }
+      word: "дякую"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 700000000
+      }
+      word: "мені"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 400000000
+      }
+      word: "давайте"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 700000000
+      }
+      word: "давайте"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 24
+        nanos: 300000000
+      }
+      word: "давайте"
+      speaker_tag: 1
+    }
+  }
+}
+total_billed_time {
+  seconds: 26
+}
+request_id: 267956516659802758
