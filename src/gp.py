@@ -4,6 +4,7 @@ from google.cloud.speech_v2.types import cloud_speech
 from datetime import datetime
 from pyannote.audio import Pipeline
 import os
+import torch
 
 print(f"imports")
 
@@ -93,6 +94,7 @@ def transcribe_word_level_confidence_v2(
 token = "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"
 pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1",
                                      use_auth_token=token)
+pipeline.to(torch.device("cuda"))
 
 with open(output_file, "a") as f:
     f.write(f"diarization started: " + cur_time())
@@ -122,7 +124,7 @@ for turn, _, speaker in diarization.itertracks(yield_label=True):
     result_line = f"{start_time:.1f}s - {end_time:.1f}s ({speaker}): {transcript}\n"
 
     # Запис у файл
-    with open(output_file, "a") as f:
+    with open(output_file, "a", encoding='utf-8') as f:
         f.write(result_line)
     
     print(result_line)
