@@ -4,10 +4,17 @@ services:
   python-app:
     build: .
     container_name: python_container
+    restart: unless-stopped
     working_dir: /app     # Устанавливаем рабочую директорию внутри контейнера
     volumes:
-      - .:/app        # Монтируем локальную папку 'src' в контейнер
+      - ./:/app        # Монтируем локальную папку 'src' в контейнер
     environment:
       - PYTHONUNBUFFERED=1 # Для предотвращения буферизации вывода Python
     stdin_open: true      # Открываем стандартный ввод (полезно для интерактивных сеансов)
     tty: true             # Позволяет взаимодействовать с контейнером через терминал
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              capabilities: [gpu]
