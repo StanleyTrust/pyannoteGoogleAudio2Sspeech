@@ -3,12 +3,7 @@ from google.cloud.speech_v2 import SpeechClient
 from google.cloud.speech_v2.types import cloud_speech
 from datetime import datetime
 from pyannote.audio import Pipeline
-from pydub.effects import normalize
-import whisper
 import os
-import noisereduce as nr
-import librosa
-import soundfile as sf
 
 print(f"imports")
 

@@ -2,9 +2,6 @@ FROM python:3.10
 
 WORKDIR /app
 
-# Копируем файл зависимостей (requirements.txt) в контейнер
-COPY requirements.txt /app/
-
 RUN apt update \
     && apt install -y ffmpeg build-essential python3-dev libsndfile1
 
