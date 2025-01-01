@@ -792,3 +792,1581 @@ diarization started: 2024-12-20 16:30:54diarization end: 2024-12-20 16:32:160.8s
 1146.6s - 1149.4s (SPEAKER_01): маємо настрої Тихого мирного неба над
 1151.6s - 1152.7s (SPEAKER_01): давай
 1152.7s - 1153.8s (SPEAKER_01): Да давай
+2024-12-31 14:56:51) просто діпграмм:
+
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "2075fdbf-914c-4bfe-847f-44e6e00eccd4",
+        "sha256": "ea0f372565b0d2378527e340729858fcf6fd9616f3ca56dba05c08b2b81f2ad6",
+        "created": "2024-12-31T14:57:08.269Z",
+        "duration": 40.0,
+        "channels": 1,
+        "models": [
+            "873ca042-5150-433f-9a0f-f861ce6d97fe"
+        ],
+        "model_info": {
+            "873ca042-5150-433f-9a0f-f861ce6d97fe": {
+                "name": "2-general-nova",
+                "version": "2023-12-28.16422",
+                "arch": "nova-2"
+            }
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Это типа форк на выспардов. Но он работает что-то на GPU. И вот я хочу это протестовать. У меня есть показ HPAU и, короче, на оттяжке протестовать. Как захочешь. Ты выяснишь. Можно это интересно. Там еще есть пенаут, которая есть и используется пенаут для идеоризации. Для диоризации я паяноут, да.",
+                        "confidence": 0.76139325,
+                        "words": [
+                            {
+                                "word": "это",
+                                "start": 6.72,
+                                "end": 7.2,
+                                "confidence": 0.30444336,
+                                "punctuated_word": "Это"
+                            },
+                            {
+                                "word": "типа",
+                                "start": 7.2,
+                                "end": 7.68,
+                                "confidence": 0.6723633,
+                                "punctuated_word": "типа"
+                            },
+                            {
+                                "word": "форк",
+                                "start": 7.68,
+                                "end": 8.16,
+                                "confidence": 0.76204425,
+                                "punctuated_word": "форк"
+                            },
+                            {
+                                "word": "на",
+                                "start": 8.16,
+                                "end": 8.639999,
+                                "confidence": 0.43847656,
+                                "punctuated_word": "на"
+                            },
+                            {
+                                "word": "выспардов",
+                                "start": 8.639999,
+                                "end": 9.12,
+                                "confidence": 0.3330078,
+                                "punctuated_word": "выспардов."
+                            },
+                            {
+                                "word": "но",
+                                "start": 9.12,
+                                "end": 9.599999,
+                                "confidence": 0.88134766,
+                                "punctuated_word": "Но"
+                            },
+                            {
+                                "word": "он",
+                                "start": 9.599999,
+                                "end": 9.679999,
+                                "confidence": 0.96777344,
+                                "punctuated_word": "он"
+                            },
+                            {
+                                "word": "работает",
+                                "start": 9.679999,
+                                "end": 10.0,
+                                "confidence": 0.97265625,
+                                "punctuated_word": "работает"
+                            },
+                            {
+                                "word": "что-то",
+                                "start": 10.0,
+                                "end": 10.32,
+                                "confidence": 0.82128906,
+                                "punctuated_word": "что-то"
+                            },
+                            {
+                                "word": "на",
+                                "start": 10.32,
+                                "end": 10.639999,
+                                "confidence": 0.54541016,
+                                "punctuated_word": "на"
+                            },
+                            {
+                                "word": "gpu",
+                                "start": 10.639999,
+                                "end": 11.139999,
+                                "confidence": 0.6032715,
+                                "punctuated_word": "GPU."
+                            },
+                            {
+                                "word": "и",
+                                "start": 11.36,
+                                "end": 11.679999,
+                                "confidence": 0.6635742,
+                                "punctuated_word": "И"
+                            },
+                            {
+                                "word": "вот",
+                                "start": 11.679999,
+                                "end": 11.759999,
+                                "confidence": 0.55908203,
+                                "punctuated_word": "вот"
+                            },
+                            {
+                                "word": "я",
+                                "start": 11.759999,
+                                "end": 12.08,
+                                "confidence": 0.9970703,
+                                "punctuated_word": "я"
+                            },
+                            {
+                                "word": "хочу",
+                                "start": 12.08,
+                                "end": 12.58,
+                                "confidence": 0.99609375,
+                                "punctuated_word": "хочу"
+                            },
+                            {
+                                "word": "это",
+                                "start": 12.825,
+                                "end": 13.325,
+                                "confidence": 0.87060547,
+                                "punctuated_word": "это"
+                            },
+                            {
+                                "word": "протестовать",
+                                "start": 13.785,
+                                "end": 14.184999,
+                                "confidence": 0.76139325,
+                                "punctuated_word": "протестовать."
+                            },
+                            {
+                                "word": "у",
+                                "start": 14.184999,
+                                "end": 14.684999,
+                                "confidence": 0.9536133,
+                                "punctuated_word": "У"
+                            },
+                            {
+                                "word": "меня",
+                                "start": 15.305,
+                                "end": 15.805,
+                                "confidence": 0.9970703,
+                                "punctuated_word": "меня"
+                            },
+                            {
+                                "word": "есть",
+                                "start": 15.865,
+                                "end": 16.365,
+                                "confidence": 0.9165039,
+                                "punctuated_word": "есть"
+                            },
+                            {
+                                "word": "показ",
+                                "start": 16.425,
+                                "end": 16.925,
+                                "confidence": 0.84277344,
+                                "punctuated_word": "показ"
+                            },
+                            {
+                                "word": "hpau",
+                                "start": 16.985,
+                                "end": 17.485,
+                                "confidence": 0.8696289,
+                                "punctuated_word": "HPAU"
+                            },
+                            {
+                                "word": "и",
+                                "start": 17.545,
+                                "end": 18.045,
+                                "confidence": 0.64331055,
+                                "punctuated_word": "и,"
+                            },
+                            {
+                                "word": "короче",
+                                "start": 19.945,
+                                "end": 20.105,
+                                "confidence": 0.93896484,
+                                "punctuated_word": "короче,"
+                            },
+                            {
+                                "word": "на",
+                                "start": 20.105,
+                                "end": 20.265,
+                                "confidence": 0.7426758,
+                                "punctuated_word": "на"
+                            },
+                            {
+                                "word": "оттяжке",
+                                "start": 20.265,
+                                "end": 20.765,
+                                "confidence": 0.74697876,
+                                "punctuated_word": "оттяжке"
+                            },
+                            {
+                                "word": "протестовать",
+                                "start": 20.825,
+                                "end": 21.325,
+                                "confidence": 0.79752606,
+                                "punctuated_word": "протестовать."
+                            },
+                            {
+                                "word": "как",
+                                "start": 22.825,
+                                "end": 22.985,
+                                "confidence": 0.578125,
+                                "punctuated_word": "Как"
+                            },
+                            {
+                                "word": "захочешь",
+                                "start": 22.985,
+                                "end": 23.485,
+                                "confidence": 0.8100586,
+                                "punctuated_word": "захочешь."
+                            },
+                            {
+                                "word": "ты",
+                                "start": 23.785,
+                                "end": 23.945,
+                                "confidence": 0.4099121,
+                                "punctuated_word": "Ты"
+                            },
+                            {
+                                "word": "выяснишь",
+                                "start": 23.945,
+                                "end": 24.445,
+                                "confidence": 0.4584961,
+                                "punctuated_word": "выяснишь."
+                            },
+                            {
+                                "word": "можно",
+                                "start": 26.09,
+                                "end": 26.59,
+                                "confidence": 0.9316406,
+                                "punctuated_word": "Можно"
+                            },
+                            {
+                                "word": "это",
+                                "start": 27.53,
+                                "end": 28.03,
+                                "confidence": 0.5888672,
+                                "punctuated_word": "это"
+                            },
+                            {
+                                "word": "интересно",
+                                "start": 28.970001,
+                                "end": 29.354002,
+                                "confidence": 0.6158447,
+                                "punctuated_word": "интересно."
+                            },
+                            {
+                                "word": "там",
+                                "start": 29.354002,
+                                "end": 29.738,
+                                "confidence": 0.8203125,
+                                "punctuated_word": "Там"
+                            },
+                            {
+                                "word": "еще",
+                                "start": 29.738,
+                                "end": 30.122002,
+                                "confidence": 0.85253906,
+                                "punctuated_word": "еще"
+                            },
+                            {
+                                "word": "есть",
+                                "start": 30.122002,
+                                "end": 30.506,
+                                "confidence": 0.4345703,
+                                "punctuated_word": "есть"
+                            },
+                            {
+                                "word": "пенаут",
+                                "start": 30.506,
+                                "end": 30.634,
+                                "confidence": 0.7141113,
+                                "punctuated_word": "пенаут,"
+                            },
+                            {
+                                "word": "которая",
+                                "start": 30.634,
+                                "end": 30.762001,
+                                "confidence": 0.33276367,
+                                "punctuated_word": "которая"
+                            },
+                            {
+                                "word": "есть",
+                                "start": 30.762001,
+                                "end": 30.890001,
+                                "confidence": 0.14794922,
+                                "punctuated_word": "есть"
+                            },
+                            {
+                                "word": "и",
+                                "start": 30.890001,
+                                "end": 31.050001,
+                                "confidence": 0.6225586,
+                                "punctuated_word": "и"
+                            },
+                            {
+                                "word": "используется",
+                                "start": 31.050001,
+                                "end": 31.550001,
+                                "confidence": 0.35620117,
+                                "punctuated_word": "используется"
+                            },
+                            {
+                                "word": "пенаут",
+                                "start": 33.13,
+                                "end": 33.63,
+                                "confidence": 0.87561035,
+                                "punctuated_word": "пенаут"
+                            },
+                            {
+                                "word": "для",
+                                "start": 34.33,
+                                "end": 34.49,
+                                "confidence": 0.77001953,
+                                "punctuated_word": "для"
+                            },
+                            {
+                                "word": "идеоризации",
+                                "start": 34.49,
+                                "end": 34.99,
+                                "confidence": 0.71203613,
+                                "punctuated_word": "идеоризации."
+                            },
+                            {
+                                "word": "для",
+                                "start": 36.65,
+                                "end": 37.05,
+                                "confidence": 0.89990234,
+                                "punctuated_word": "Для"
+                            },
+                            {
+                                "word": "диоризации",
+                                "start": 37.05,
+                                "end": 37.55,
+                                "confidence": 0.88879395,
+                                "punctuated_word": "диоризации"
+                            },
+                            {
+                                "word": "я",
+                                "start": 37.690002,
+                                "end": 38.190002,
+                                "confidence": 0.72106934,
+                                "punctuated_word": "я"
+                            },
+                            {
+                                "word": "паяноут",
+                                "start": 38.33,
+                                "end": 38.83,
+                                "confidence": 0.61311847,
+                                "punctuated_word": "паяноут,"
+                            },
+                            {
+                                "word": "да",
+                                "start": 38.97,
+                                "end": 39.47,
+                                "confidence": 0.76782227,
+                                "punctuated_word": "да."
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nЭто типа форк на выспардов. Но он работает что-то на GPU. И вот я хочу это протестовать. У меня есть показ HPAU и, короче, на оттяжке протестовать. Как захочешь.\n\nТы выяснишь. Можно это интересно. Там еще есть пенаут, которая есть и используется пенаут для идеоризации. Для диоризации я паяноут, да.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Это типа форк на выспардов.",
+                                            "start": 6.72,
+                                            "end": 9.12
+                                        },
+                                        {
+                                            "text": "Но он работает что-то на GPU.",
+                                            "start": 9.12,
+                                            "end": 11.139999
+                                        },
+                                        {
+                                            "text": "И вот я хочу это протестовать.",
+                                            "start": 11.36,
+                                            "end": 14.184999
+                                        },
+                                        {
+                                            "text": "У меня есть показ HPAU и, короче, на оттяжке протестовать.",
+                                            "start": 14.184999,
+                                            "end": 21.325
+                                        },
+                                        {
+                                            "text": "Как захочешь.",
+                                            "start": 22.825,
+                                            "end": 23.485
+                                        }
+                                    ],
+                                    "start": 6.72,
+                                    "end": 23.485,
+                                    "num_words": 29
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Ты выяснишь.",
+                                            "start": 23.785,
+                                            "end": 24.445
+                                        },
+                                        {
+                                            "text": "Можно это интересно.",
+                                            "start": 26.09,
+                                            "end": 29.354002
+                                        },
+                                        {
+                                            "text": "Там еще есть пенаут, которая есть и используется пенаут для идеоризации.",
+                                            "start": 29.354002,
+                                            "end": 34.99
+                                        },
+                                        {
+                                            "text": "Для диоризации я паяноут, да.",
+                                            "start": 36.65,
+                                            "end": 39.47
+                                        }
+                                    ],
+                                    "start": 23.785,
+                                    "end": 39.47,
+                                    "num_words": 21
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "detected_language": "ru",
+                "language_confidence": 0.5813427
+            }
+        ]
+    }
+}2024-12-31 15:06:43) просто діпграмм:
+
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "a7d62088-573b-4c6d-8cc7-4d86267a936f",
+        "sha256": "ea0f372565b0d2378527e340729858fcf6fd9616f3ca56dba05c08b2b81f2ad6",
+        "created": "2024-12-31T15:06:56.544Z",
+        "duration": 40.0,
+        "channels": 1,
+        "models": [
+            "873ca042-5150-433f-9a0f-f861ce6d97fe"
+        ],
+        "model_info": {
+            "873ca042-5150-433f-9a0f-f861ce6d97fe": {
+                "name": "2-general-nova",
+                "version": "2023-12-28.16422",
+                "arch": "nova-2"
+            }
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Это типа форк на выспардов. Но он работает что-то на GPU. И вот я хочу это протестовать. У меня есть показ HPAU и, короче, на оттяжке протестовать. Как захочешь. Ты выяснишь. Можно это интересно. Там еще есть пенаут, которая есть и используется пенаут для идеоризации. Для диоризации я паяноут, да.",
+                        "confidence": 0.76139325,
+                        "words": [
+                            {
+                                "word": "это",
+                                "start": 6.72,
+                                "end": 7.2,
+                                "confidence": 0.30444336,
+                                "punctuated_word": "Это",
+                                "speaker": 0,
+                                "speaker_confidence": 0.0
+                            },
+                            {
+                                "word": "типа",
+                                "start": 7.2,
+                                "end": 7.68,
+                                "confidence": 0.6723633,
+                                "punctuated_word": "типа",
+                                "speaker": 0,
+                                "speaker_confidence": 0.0
+                            },
+                            {
+                                "word": "форк",
+                                "start": 7.68,
+                                "end": 8.16,
+                                "confidence": 0.76204425,
+                                "punctuated_word": "форк",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "на",
+                                "start": 8.16,
+                                "end": 8.639999,
+                                "confidence": 0.43847656,
+                                "punctuated_word": "на",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "выспардов",
+                                "start": 8.639999,
+                                "end": 9.12,
+                                "confidence": 0.3330078,
+                                "punctuated_word": "выспардов.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "но",
+                                "start": 9.12,
+                                "end": 9.599999,
+                                "confidence": 0.88134766,
+                                "punctuated_word": "Но",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "он",
+                                "start": 9.599999,
+                                "end": 9.679999,
+                                "confidence": 0.96777344,
+                                "punctuated_word": "он",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "работает",
+                                "start": 9.679999,
+                                "end": 10.0,
+                                "confidence": 0.97265625,
+                                "punctuated_word": "работает",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "что-то",
+                                "start": 10.0,
+                                "end": 10.32,
+                                "confidence": 0.82128906,
+                                "punctuated_word": "что-то",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "на",
+                                "start": 10.32,
+                                "end": 10.639999,
+                                "confidence": 0.54541016,
+                                "punctuated_word": "на",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "gpu",
+                                "start": 10.639999,
+                                "end": 11.139999,
+                                "confidence": 0.6032715,
+                                "punctuated_word": "GPU.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "и",
+                                "start": 11.36,
+                                "end": 11.679999,
+                                "confidence": 0.6635742,
+                                "punctuated_word": "И",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "вот",
+                                "start": 11.679999,
+                                "end": 11.759999,
+                                "confidence": 0.55908203,
+                                "punctuated_word": "вот",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "я",
+                                "start": 11.759999,
+                                "end": 12.08,
+                                "confidence": 0.9970703,
+                                "punctuated_word": "я",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "хочу",
+                                "start": 12.08,
+                                "end": 12.58,
+                                "confidence": 0.99609375,
+                                "punctuated_word": "хочу",
+                                "speaker": 0,
+                                "speaker_confidence": 0.6005918
+                            },
+                            {
+                                "word": "это",
+                                "start": 12.825,
+                                "end": 13.325,
+                                "confidence": 0.87060547,
+                                "punctuated_word": "это",
+                                "speaker": 0,
+                                "speaker_confidence": 0.5440206
+                            },
+                            {
+                                "word": "протестовать",
+                                "start": 13.785,
+                                "end": 14.184999,
+                                "confidence": 0.76139325,
+                                "punctuated_word": "протестовать.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.5440206
+                            },
+                            {
+                                "word": "у",
+                                "start": 14.184999,
+                                "end": 14.684999,
+                                "confidence": 0.9536133,
+                                "punctuated_word": "У",
+                                "speaker": 0,
+                                "speaker_confidence": 0.5440206
+                            },
+                            {
+                                "word": "меня",
+                                "start": 15.305,
+                                "end": 15.805,
+                                "confidence": 0.9970703,
+                                "punctuated_word": "меня",
+                                "speaker": 0,
+                                "speaker_confidence": 0.5440206
+                            },
+                            {
+                                "word": "есть",
+                                "start": 15.865,
+                                "end": 16.365,
+                                "confidence": 0.9165039,
+                                "punctuated_word": "есть",
+                                "speaker": 0,
+                                "speaker_confidence": 0.5440206
+                            },
+                            {
+                                "word": "показ",
+                                "start": 16.425,
+                                "end": 16.925,
+                                "confidence": 0.84277344,
+                                "punctuated_word": "показ",
+                                "speaker": 0,
+                                "speaker_confidence": 0.5440206
+                            },
+                            {
+                                "word": "hpau",
+                                "start": 16.985,
+                                "end": 17.485,
+                                "confidence": 0.8696289,
+                                "punctuated_word": "HPAU",
+                                "speaker": 0,
+                                "speaker_confidence": 0.5440206
+                            },
+                            {
+                                "word": "и",
+                                "start": 17.545,
+                                "end": 18.045,
+                                "confidence": 0.64331055,
+                                "punctuated_word": "и,",
+                                "speaker": 0,
+                                "speaker_confidence": 0.5440206
+                            },
+                            {
+                                "word": "короче",
+                                "start": 19.945,
+                                "end": 20.105,
+                                "confidence": 0.93896484,
+                                "punctuated_word": "короче,",
+                                "speaker": 0,
+                                "speaker_confidence": 0.52291185
+                            },
+                            {
+                                "word": "на",
+                                "start": 20.105,
+                                "end": 20.265,
+                                "confidence": 0.7426758,
+                                "punctuated_word": "на",
+                                "speaker": 0,
+                                "speaker_confidence": 0.52291185
+                            },
+                            {
+                                "word": "оттяжке",
+                                "start": 20.265,
+                                "end": 20.765,
+                                "confidence": 0.74697876,
+                                "punctuated_word": "оттяжке",
+                                "speaker": 0,
+                                "speaker_confidence": 0.52291185
+                            },
+                            {
+                                "word": "протестовать",
+                                "start": 20.825,
+                                "end": 21.325,
+                                "confidence": 0.79752606,
+                                "punctuated_word": "протестовать.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.52291185
+                            },
+                            {
+                                "word": "как",
+                                "start": 22.825,
+                                "end": 22.985,
+                                "confidence": 0.578125,
+                                "punctuated_word": "Как",
+                                "speaker": 0,
+                                "speaker_confidence": 0.074005246
+                            },
+                            {
+                                "word": "захочешь",
+                                "start": 22.985,
+                                "end": 23.485,
+                                "confidence": 0.8100586,
+                                "punctuated_word": "захочешь.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.074005246
+                            },
+                            {
+                                "word": "ты",
+                                "start": 23.785,
+                                "end": 23.945,
+                                "confidence": 0.4099121,
+                                "punctuated_word": "Ты",
+                                "speaker": 0,
+                                "speaker_confidence": 0.056773484
+                            },
+                            {
+                                "word": "выяснишь",
+                                "start": 23.945,
+                                "end": 24.445,
+                                "confidence": 0.4584961,
+                                "punctuated_word": "выяснишь.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.15104449
+                            },
+                            {
+                                "word": "можно",
+                                "start": 26.09,
+                                "end": 26.59,
+                                "confidence": 0.9316406,
+                                "punctuated_word": "Можно",
+                                "speaker": 0,
+                                "speaker_confidence": 0.15104449
+                            },
+                            {
+                                "word": "это",
+                                "start": 27.53,
+                                "end": 28.03,
+                                "confidence": 0.5888672,
+                                "punctuated_word": "это",
+                                "speaker": 0,
+                                "speaker_confidence": 0.15104449
+                            },
+                            {
+                                "word": "интересно",
+                                "start": 28.970001,
+                                "end": 29.354002,
+                                "confidence": 0.6158447,
+                                "punctuated_word": "интересно.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "там",
+                                "start": 29.354002,
+                                "end": 29.738,
+                                "confidence": 0.8203125,
+                                "punctuated_word": "Там",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "еще",
+                                "start": 29.738,
+                                "end": 30.122002,
+                                "confidence": 0.85253906,
+                                "punctuated_word": "еще",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "есть",
+                                "start": 30.122002,
+                                "end": 30.506,
+                                "confidence": 0.4345703,
+                                "punctuated_word": "есть",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "пенаут",
+                                "start": 30.506,
+                                "end": 30.634,
+                                "confidence": 0.7141113,
+                                "punctuated_word": "пенаут,",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "которая",
+                                "start": 30.634,
+                                "end": 30.762001,
+                                "confidence": 0.33276367,
+                                "punctuated_word": "которая",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "есть",
+                                "start": 30.762001,
+                                "end": 30.890001,
+                                "confidence": 0.14794922,
+                                "punctuated_word": "есть",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "и",
+                                "start": 30.890001,
+                                "end": 31.050001,
+                                "confidence": 0.6225586,
+                                "punctuated_word": "и",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "используется",
+                                "start": 31.050001,
+                                "end": 31.550001,
+                                "confidence": 0.35620117,
+                                "punctuated_word": "используется",
+                                "speaker": 0,
+                                "speaker_confidence": 0.34122264
+                            },
+                            {
+                                "word": "пенаут",
+                                "start": 33.13,
+                                "end": 33.63,
+                                "confidence": 0.87561035,
+                                "punctuated_word": "пенаут",
+                                "speaker": 0,
+                                "speaker_confidence": 0.12099856
+                            },
+                            {
+                                "word": "для",
+                                "start": 34.33,
+                                "end": 34.49,
+                                "confidence": 0.77001953,
+                                "punctuated_word": "для",
+                                "speaker": 0,
+                                "speaker_confidence": 0.12099856
+                            },
+                            {
+                                "word": "идеоризации",
+                                "start": 34.49,
+                                "end": 34.99,
+                                "confidence": 0.71203613,
+                                "punctuated_word": "идеоризации.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.12099856
+                            },
+                            {
+                                "word": "для",
+                                "start": 36.65,
+                                "end": 37.05,
+                                "confidence": 0.89990234,
+                                "punctuated_word": "Для",
+                                "speaker": 0,
+                                "speaker_confidence": 0.56255376
+                            },
+                            {
+                                "word": "диоризации",
+                                "start": 37.05,
+                                "end": 37.55,
+                                "confidence": 0.88879395,
+                                "punctuated_word": "диоризации",
+                                "speaker": 0,
+                                "speaker_confidence": 0.56255376
+                            },
+                            {
+                                "word": "я",
+                                "start": 37.690002,
+                                "end": 38.190002,
+                                "confidence": 0.72106934,
+                                "punctuated_word": "я",
+                                "speaker": 0,
+                                "speaker_confidence": 0.56255376
+                            },
+                            {
+                                "word": "паяноут",
+                                "start": 38.33,
+                                "end": 38.83,
+                                "confidence": 0.61311847,
+                                "punctuated_word": "паяноут,",
+                                "speaker": 0,
+                                "speaker_confidence": 0.56255376
+                            },
+                            {
+                                "word": "да",
+                                "start": 38.97,
+                                "end": 39.47,
+                                "confidence": 0.76782227,
+                                "punctuated_word": "да.",
+                                "speaker": 0,
+                                "speaker_confidence": 0.56255376
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: Это типа форк на выспардов. Но он работает что-то на GPU. И вот я хочу это протестовать. У меня есть показ HPAU и, короче, на оттяжке протестовать. Как захочешь.\n\nТы выяснишь. Можно это интересно. Там еще есть пенаут, которая есть и используется пенаут для идеоризации. Для диоризации я паяноут, да.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Это типа форк на выспардов.",
+                                            "start": 6.72,
+                                            "end": 9.12
+                                        },
+                                        {
+                                            "text": "Но он работает что-то на GPU.",
+                                            "start": 9.12,
+                                            "end": 11.139999
+                                        },
+                                        {
+                                            "text": "И вот я хочу это протестовать.",
+                                            "start": 11.36,
+                                            "end": 14.184999
+                                        },
+                                        {
+                                            "text": "У меня есть показ HPAU и, короче, на оттяжке протестовать.",
+                                            "start": 14.184999,
+                                            "end": 21.325
+                                        },
+                                        {
+                                            "text": "Как захочешь.",
+                                            "start": 22.825,
+                                            "end": 23.485
+                                        }
+                                    ],
+                                    "start": 6.72,
+                                    "end": 23.485,
+                                    "num_words": 29,
+                                    "speaker": 0
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Ты выяснишь.",
+                                            "start": 23.785,
+                                            "end": 24.445
+                                        },
+                                        {
+                                            "text": "Можно это интересно.",
+                                            "start": 26.09,
+                                            "end": 29.354002
+                                        },
+                                        {
+                                            "text": "Там еще есть пенаут, которая есть и используется пенаут для идеоризации.",
+                                            "start": 29.354002,
+                                            "end": 34.99
+                                        },
+                                        {
+                                            "text": "Для диоризации я паяноут, да.",
+                                            "start": 36.65,
+                                            "end": 39.47
+                                        }
+                                    ],
+                                    "start": 23.785,
+                                    "end": 39.47,
+                                    "num_words": 21,
+                                    "speaker": 0
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "detected_language": "ru",
+                "language_confidence": 0.6639649
+            }
+        ],
+        "utterances": [
+            {
+                "start": 6.72,
+                "end": 13.325,
+                "confidence": 0.7117818,
+                "channel": 0,
+                "transcript": "Это типа форк на выспардов. Но он работает что-то на GPU. И вот я хочу это",
+                "words": [
+                    {
+                        "word": "это",
+                        "start": 6.72,
+                        "end": 7.2,
+                        "confidence": 0.30444336,
+                        "punctuated_word": "Это",
+                        "speaker": 0,
+                        "speaker_confidence": 0.0
+                    },
+                    {
+                        "word": "типа",
+                        "start": 7.2,
+                        "end": 7.68,
+                        "confidence": 0.6723633,
+                        "punctuated_word": "типа",
+                        "speaker": 0,
+                        "speaker_confidence": 0.0
+                    },
+                    {
+                        "word": "форк",
+                        "start": 7.68,
+                        "end": 8.16,
+                        "confidence": 0.76204425,
+                        "punctuated_word": "форк",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "на",
+                        "start": 8.16,
+                        "end": 8.639999,
+                        "confidence": 0.43847656,
+                        "punctuated_word": "на",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "выспардов",
+                        "start": 8.639999,
+                        "end": 9.12,
+                        "confidence": 0.3330078,
+                        "punctuated_word": "выспардов.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "но",
+                        "start": 9.12,
+                        "end": 9.599999,
+                        "confidence": 0.88134766,
+                        "punctuated_word": "Но",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "он",
+                        "start": 9.599999,
+                        "end": 9.679999,
+                        "confidence": 0.96777344,
+                        "punctuated_word": "он",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "работает",
+                        "start": 9.679999,
+                        "end": 10.0,
+                        "confidence": 0.97265625,
+                        "punctuated_word": "работает",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "что-то",
+                        "start": 10.0,
+                        "end": 10.32,
+                        "confidence": 0.82128906,
+                        "punctuated_word": "что-то",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "на",
+                        "start": 10.32,
+                        "end": 10.639999,
+                        "confidence": 0.54541016,
+                        "punctuated_word": "на",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "gpu",
+                        "start": 10.639999,
+                        "end": 11.139999,
+                        "confidence": 0.6032715,
+                        "punctuated_word": "GPU.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "и",
+                        "start": 11.36,
+                        "end": 11.679999,
+                        "confidence": 0.6635742,
+                        "punctuated_word": "И",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "вот",
+                        "start": 11.679999,
+                        "end": 11.759999,
+                        "confidence": 0.55908203,
+                        "punctuated_word": "вот",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "я",
+                        "start": 11.759999,
+                        "end": 12.08,
+                        "confidence": 0.9970703,
+                        "punctuated_word": "я",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "хочу",
+                        "start": 12.08,
+                        "end": 12.58,
+                        "confidence": 0.99609375,
+                        "punctuated_word": "хочу",
+                        "speaker": 0,
+                        "speaker_confidence": 0.6005918
+                    },
+                    {
+                        "word": "это",
+                        "start": 12.825,
+                        "end": 13.325,
+                        "confidence": 0.87060547,
+                        "punctuated_word": "это",
+                        "speaker": 0,
+                        "speaker_confidence": 0.5440206
+                    }
+                ],
+                "speaker": 0,
+                "id": "a7e9ccce-aaa8-49b7-a4a6-1646429de548"
+            },
+            {
+                "start": 13.785,
+                "end": 14.684999,
+                "confidence": 0.8575033,
+                "channel": 0,
+                "transcript": "протестовать. У",
+                "words": [
+                    {
+                        "word": "протестовать",
+                        "start": 13.785,
+                        "end": 14.184999,
+                        "confidence": 0.76139325,
+                        "punctuated_word": "протестовать.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.5440206
+                    },
+                    {
+                        "word": "у",
+                        "start": 14.184999,
+                        "end": 14.684999,
+                        "confidence": 0.9536133,
+                        "punctuated_word": "У",
+                        "speaker": 0,
+                        "speaker_confidence": 0.5440206
+                    }
+                ],
+                "speaker": 0,
+                "id": "e55512d9-461a-4d70-af22-2e6a2a7b8212"
+            },
+            {
+                "start": 15.305,
+                "end": 18.045,
+                "confidence": 0.8538574,
+                "channel": 0,
+                "transcript": "меня есть показ HPAU и,",
+                "words": [
+                    {
+                        "word": "меня",
+                        "start": 15.305,
+                        "end": 15.805,
+                        "confidence": 0.9970703,
+                        "punctuated_word": "меня",
+                        "speaker": 0,
+                        "speaker_confidence": 0.5440206
+                    },
+                    {
+                        "word": "есть",
+                        "start": 15.865,
+                        "end": 16.365,
+                        "confidence": 0.9165039,
+                        "punctuated_word": "есть",
+                        "speaker": 0,
+                        "speaker_confidence": 0.5440206
+                    },
+                    {
+                        "word": "показ",
+                        "start": 16.425,
+                        "end": 16.925,
+                        "confidence": 0.84277344,
+                        "punctuated_word": "показ",
+                        "speaker": 0,
+                        "speaker_confidence": 0.5440206
+                    },
+                    {
+                        "word": "hpau",
+                        "start": 16.985,
+                        "end": 17.485,
+                        "confidence": 0.8696289,
+                        "punctuated_word": "HPAU",
+                        "speaker": 0,
+                        "speaker_confidence": 0.5440206
+                    },
+                    {
+                        "word": "и",
+                        "start": 17.545,
+                        "end": 18.045,
+                        "confidence": 0.64331055,
+                        "punctuated_word": "и,",
+                        "speaker": 0,
+                        "speaker_confidence": 0.5440206
+                    }
+                ],
+                "speaker": 0,
+                "id": "9d133700-c73f-40c7-8d27-e01ee5990c7c"
+            },
+            {
+                "start": 19.945,
+                "end": 21.325,
+                "confidence": 0.8065364,
+                "channel": 0,
+                "transcript": "короче, на оттяжке протестовать.",
+                "words": [
+                    {
+                        "word": "короче",
+                        "start": 19.945,
+                        "end": 20.105,
+                        "confidence": 0.93896484,
+                        "punctuated_word": "короче,",
+                        "speaker": 0,
+                        "speaker_confidence": 0.52291185
+                    },
+                    {
+                        "word": "на",
+                        "start": 20.105,
+                        "end": 20.265,
+                        "confidence": 0.7426758,
+                        "punctuated_word": "на",
+                        "speaker": 0,
+                        "speaker_confidence": 0.52291185
+                    },
+                    {
+                        "word": "оттяжке",
+                        "start": 20.265,
+                        "end": 20.765,
+                        "confidence": 0.74697876,
+                        "punctuated_word": "оттяжке",
+                        "speaker": 0,
+                        "speaker_confidence": 0.52291185
+                    },
+                    {
+                        "word": "протестовать",
+                        "start": 20.825,
+                        "end": 21.325,
+                        "confidence": 0.79752606,
+                        "punctuated_word": "протестовать.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.52291185
+                    }
+                ],
+                "speaker": 0,
+                "id": "3478859d-0dbb-4c4b-9725-36f1f11337c0"
+            },
+            {
+                "start": 22.825,
+                "end": 24.445,
+                "confidence": 0.56414795,
+                "channel": 0,
+                "transcript": "Как захочешь. Ты выяснишь.",
+                "words": [
+                    {
+                        "word": "как",
+                        "start": 22.825,
+                        "end": 22.985,
+                        "confidence": 0.578125,
+                        "punctuated_word": "Как",
+                        "speaker": 0,
+                        "speaker_confidence": 0.074005246
+                    },
+                    {
+                        "word": "захочешь",
+                        "start": 22.985,
+                        "end": 23.485,
+                        "confidence": 0.8100586,
+                        "punctuated_word": "захочешь.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.074005246
+                    },
+                    {
+                        "word": "ты",
+                        "start": 23.785,
+                        "end": 23.945,
+                        "confidence": 0.4099121,
+                        "punctuated_word": "Ты",
+                        "speaker": 0,
+                        "speaker_confidence": 0.056773484
+                    },
+                    {
+                        "word": "выяснишь",
+                        "start": 23.945,
+                        "end": 24.445,
+                        "confidence": 0.4584961,
+                        "punctuated_word": "выяснишь.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.15104449
+                    }
+                ],
+                "speaker": 0,
+                "id": "157b7d21-1836-49a1-8771-5951988ee4f5"
+            },
+            {
+                "start": 26.09,
+                "end": 26.59,
+                "confidence": 0.9316406,
+                "channel": 0,
+                "transcript": "Можно",
+                "words": [
+                    {
+                        "word": "можно",
+                        "start": 26.09,
+                        "end": 26.59,
+                        "confidence": 0.9316406,
+                        "punctuated_word": "Можно",
+                        "speaker": 0,
+                        "speaker_confidence": 0.15104449
+                    }
+                ],
+                "speaker": 0,
+                "id": "fb8b03e0-1a4d-4157-9a0d-49e2502089e9"
+            },
+            {
+                "start": 27.53,
+                "end": 28.03,
+                "confidence": 0.5888672,
+                "channel": 0,
+                "transcript": "это",
+                "words": [
+                    {
+                        "word": "это",
+                        "start": 27.53,
+                        "end": 28.03,
+                        "confidence": 0.5888672,
+                        "punctuated_word": "это",
+                        "speaker": 0,
+                        "speaker_confidence": 0.15104449
+                    }
+                ],
+                "speaker": 0,
+                "id": "08cddff0-2610-4284-8b7f-3adfd174351b"
+            },
+            {
+                "start": 28.970001,
+                "end": 31.550001,
+                "confidence": 0.5440945,
+                "channel": 0,
+                "transcript": "интересно. Там еще есть пенаут, которая есть и используется",
+                "words": [
+                    {
+                        "word": "интересно",
+                        "start": 28.970001,
+                        "end": 29.354002,
+                        "confidence": 0.6158447,
+                        "punctuated_word": "интересно.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    },
+                    {
+                        "word": "там",
+                        "start": 29.354002,
+                        "end": 29.738,
+                        "confidence": 0.8203125,
+                        "punctuated_word": "Там",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    },
+                    {
+                        "word": "еще",
+                        "start": 29.738,
+                        "end": 30.122002,
+                        "confidence": 0.85253906,
+                        "punctuated_word": "еще",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    },
+                    {
+                        "word": "есть",
+                        "start": 30.122002,
+                        "end": 30.506,
+                        "confidence": 0.4345703,
+                        "punctuated_word": "есть",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    },
+                    {
+                        "word": "пенаут",
+                        "start": 30.506,
+                        "end": 30.634,
+                        "confidence": 0.7141113,
+                        "punctuated_word": "пенаут,",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    },
+                    {
+                        "word": "которая",
+                        "start": 30.634,
+                        "end": 30.762001,
+                        "confidence": 0.33276367,
+                        "punctuated_word": "которая",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    },
+                    {
+                        "word": "есть",
+                        "start": 30.762001,
+                        "end": 30.890001,
+                        "confidence": 0.14794922,
+                        "punctuated_word": "есть",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    },
+                    {
+                        "word": "и",
+                        "start": 30.890001,
+                        "end": 31.050001,
+                        "confidence": 0.6225586,
+                        "punctuated_word": "и",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    },
+                    {
+                        "word": "используется",
+                        "start": 31.050001,
+                        "end": 31.550001,
+                        "confidence": 0.35620117,
+                        "punctuated_word": "используется",
+                        "speaker": 0,
+                        "speaker_confidence": 0.34122264
+                    }
+                ],
+                "speaker": 0,
+                "id": "8b5f52a2-5e60-40d7-98dc-5a11582f85c0"
+            },
+            {
+                "start": 33.13,
+                "end": 33.63,
+                "confidence": 0.87561035,
+                "channel": 0,
+                "transcript": "пенаут",
+                "words": [
+                    {
+                        "word": "пенаут",
+                        "start": 33.13,
+                        "end": 33.63,
+                        "confidence": 0.87561035,
+                        "punctuated_word": "пенаут",
+                        "speaker": 0,
+                        "speaker_confidence": 0.12099856
+                    }
+                ],
+                "speaker": 0,
+                "id": "9e8697eb-04d0-471c-93ef-b364d65d0ec5"
+            },
+            {
+                "start": 34.33,
+                "end": 34.99,
+                "confidence": 0.74102783,
+                "channel": 0,
+                "transcript": "для идеоризации.",
+                "words": [
+                    {
+                        "word": "для",
+                        "start": 34.33,
+                        "end": 34.49,
+                        "confidence": 0.77001953,
+                        "punctuated_word": "для",
+                        "speaker": 0,
+                        "speaker_confidence": 0.12099856
+                    },
+                    {
+                        "word": "идеоризации",
+                        "start": 34.49,
+                        "end": 34.99,
+                        "confidence": 0.71203613,
+                        "punctuated_word": "идеоризации.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.12099856
+                    }
+                ],
+                "speaker": 0,
+                "id": "8ca55fc7-fb38-4101-9131-11a77d17125d"
+            },
+            {
+                "start": 36.65,
+                "end": 39.47,
+                "confidence": 0.77814126,
+                "channel": 0,
+                "transcript": "Для диоризации я паяноут, да.",
+                "words": [
+                    {
+                        "word": "для",
+                        "start": 36.65,
+                        "end": 37.05,
+                        "confidence": 0.89990234,
+                        "punctuated_word": "Для",
+                        "speaker": 0,
+                        "speaker_confidence": 0.56255376
+                    },
+                    {
+                        "word": "диоризации",
+                        "start": 37.05,
+                        "end": 37.55,
+                        "confidence": 0.88879395,
+                        "punctuated_word": "диоризации",
+                        "speaker": 0,
+                        "speaker_confidence": 0.56255376
+                    },
+                    {
+                        "word": "я",
+                        "start": 37.690002,
+                        "end": 38.190002,
+                        "confidence": 0.72106934,
+                        "punctuated_word": "я",
+                        "speaker": 0,
+                        "speaker_confidence": 0.56255376
+                    },
+                    {
+                        "word": "паяноут",
+                        "start": 38.33,
+                        "end": 38.83,
+                        "confidence": 0.61311847,
+                        "punctuated_word": "паяноут,",
+                        "speaker": 0,
+                        "speaker_confidence": 0.56255376
+                    },
+                    {
+                        "word": "да",
+                        "start": 38.97,
+                        "end": 39.47,
+                        "confidence": 0.76782227,
+                        "punctuated_word": "да.",
+                        "speaker": 0,
+                        "speaker_confidence": 0.56255376
+                    }
+                ],
+                "speaker": 0,
+                "id": "f07afb22-a77b-4bf0-91e2-0bf90ff8d3b0"
+            }
+        ]
+    }
+}
