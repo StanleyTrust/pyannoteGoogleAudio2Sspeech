@@ -11,7 +11,7 @@ RUN pip install --upgrade pip \
     && pip install setuptools transformers accelerate>=0.26.0 datasets pydub \
     && pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu \
     && pip install pyannote.audio noisereduce librosa soundfile \
-    && pip install --upgrade google-cloud-speech
+    && pip install speechmatics-python
 
 
 
